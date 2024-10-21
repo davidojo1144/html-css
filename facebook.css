@@ -1,0 +1,127 @@
+body{
+    background-color: whitesmoke;
+}
+
+.div1{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 150px;
+    
+    
+    
+}
+
+.facebook{
+    color: black;
+    font-size: 25px;
+    
+    
+}
+
+
+.div2{
+
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    color:rgb(30, 109, 255);
+    
+    
+    
+}
+
+
+.div4{
+    box-shadow: 1px 1px 4px black inset, 1px 1px 4px black;
+    border-radius: 10px;
+    background-color:white;
+    width: 450px;
+    height: 380px;
+    margin-left: 90px;
+    
+}
+
+.div5{
+    font-size: 25px;
+    color: white;
+    background-color: rgba(30, 109, 255);
+    width: 390px;
+    height: 50px;
+    border-color: white;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 15px;
+
+    
+}
+
+
+input{
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-color: rgba(30, 109, 255);
+    font-size: 18px;
+    
+}
+
+.div6{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: rgba(30, 109, 255);
+    padding-left: 160px;
+    padding-top: 10px;
+    
+}
+
+.div7{
+    width: 390px;
+    padding-left: 30px;
+    padding-top: 9px;
+}
+
+.div8{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    background-color:rgb(34, 139, 52);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 120px;
+    margin-top: 12px;
+    width: 200px;
+    border-radius: 10px;
+    border-color: white;
+    
+}
+
+.div9{
+    margin-left: 720px;
+    font-family: sans-serif;
+}
+
+.div10{
+    background-color: white;
+    height: 200px;
+    margin-top: 200px;
+}
+
+.div11{
+    padding-left: 150px;
+    padding-top: 15px;
+}
+
+.div12{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 13px;
+    margin-left: 12px;
+}
+
+.div13{
+    width: 1000px;
+    padding-left: 150px;
+}
+
